@@ -1,0 +1,29 @@
+body{
+    background-image: url("../fase1/src/html5-curso.png");
+    background-position: center;
+}
+h1{
+    color: blue;
+    text-align: center;
+    background: rgb(109, 236, 13 ) ;
+    padding: 20px;
+}
+h2{
+    color: black;
+    text-align: left;
+}
+
+table , th, td {
+    border: 1px solid black;
+     border-collapse: collapse;
+    width: 60%;
+    }
+
+
+td{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+
+}
